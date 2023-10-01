@@ -11,10 +11,7 @@ Esta solução foi criada para o desafio **NFT preview card**.
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
-   - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
 
 ## Visão geral
 
