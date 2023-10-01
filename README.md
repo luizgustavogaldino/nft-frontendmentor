@@ -30,7 +30,7 @@ Este desafio nos leva a colocar em prática nosso conhecimento de HTML e CSS, ab
 
 ![](./design/Captura%20de%20tela%202023-10-01%20112331.png)
 
-###Links
+### Links
 
 - URL da solução: https://github.com/luizgustavogaldino/nft-frontendmentor
 
