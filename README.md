@@ -58,7 +58,7 @@ Para criação desta resolução eu separei o processo de desenvolvimento em **4
 - Flexbox
 - Responsividade
 
-### O que eu aprendi
+### O que aprendi
 
 Neste desafio tive a oportunidade de aprender a dividir a solução do desenvolvimento de um projeto em etapas, facilitando assim a conclusão das etapas e do desafio de forma mais simples e objetiva. 
 
