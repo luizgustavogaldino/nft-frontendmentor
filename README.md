@@ -11,7 +11,7 @@ Esta solução foi criada para o desafio **NFT preview card**.
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
-- [Autor](#autor)
+- [Autor Luiz Gustavo](#autor-luiz-gustavo)
 
 ## Visão geral
 
@@ -62,7 +62,7 @@ Para criação desta resolução eu separei o processo de desenvolvimento em **4
 
 Neste desafio tive a oportunidade de aprender a dividir a solução do desenvolvimento de um projeto em etapas, facilitando assim a conclusão das etapas e do desafio de forma mais simples e objetiva. 
 
-## Autor - Luiz Gustavo
+## Autor Luiz Gustavo
 
 - Site - https://luizgustavogaldino.github.io/portfolio/
 
